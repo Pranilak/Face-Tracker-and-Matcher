@@ -1,0 +1,16 @@
+PODS:
+  - ImageDetect (1.1.4)
+
+DEPENDENCIES:
+  - ImageDetect
+
+SPEC REPOS:
+  trunk:
+    - ImageDetect
+
+SPEC CHECKSUMS:
+  ImageDetect: cff4ef43d8cb22cb5bfdd3134f4224f637c3d372
+
+PODFILE CHECKSUM: 40760909cafcffefc22db2a2af7739838b921dbe
+
+COCOAPODS: 1.8.4
